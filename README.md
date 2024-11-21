@@ -42,7 +42,7 @@ This capstone project addresses the challenge of personalized music recommendati
 ## 📊 Dataset Details
 
 ### Data Sources
-1. **Spotify Audio Features (`2audio_features.csv`)**: 
+1. **Spotify Audio Features (`2audio_features.csv`) with Spotify API**: 
    - Manually curated by hand-picking tracks from 50+ Spotify playlists
    - Collected and processed by the project team
    - Contains detailed audio features for selected tracks
