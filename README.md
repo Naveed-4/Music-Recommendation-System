@@ -129,7 +129,7 @@ MIT License - See [LICENSE](LICENSE) for details
 - [LinkedIn Post](https://www.linkedin.com/posts/naveed-sharief-b0ba1b252_machinelearning-musictech-aiinnovation-activity-7264335292780748800-zSgd?utm_source=share&utm_medium=member_desktop)
 - [Project Report](reports/Final-Report.pdf)
 - [Project Poster](reports/Poster.pdf)
-- [Project PPT](reports/PPT.ppt)
+- [Project PPT](reports/PPT.pptx)
 - [Youtube Video giving the PPT presentation](https://youtu.be/McpnVNAPNQo?si=87_OhFmZ4dh3LOug)
 
 ## 🐛 Issues & Contributions
