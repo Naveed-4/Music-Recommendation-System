@@ -46,9 +46,10 @@ This capstone project addresses the challenge of personalized music recommendati
    - Manually curated by hand-picking tracks from 50+ Spotify playlists
    - Collected and processed by the project team
    - Contains detailed audio features for selected tracks
+   - Check out Jupter Notebook to see how I did it [Jupyter Notebook](2MRS.ipynb)
 
 2. **Historical Tracks (`tracks.csv`)**: 
-   - Sourced from Kaggle: "Spotify Dataset 1921-2020, 600k+ Tracks"
+   - Sourced from Kaggle: [Spotify Dataset 1921-2020, 600k+ Tracks](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv)
    - Comprehensive dataset spanning nearly a century of music
    - Provides a broad base for music recommendations
 
